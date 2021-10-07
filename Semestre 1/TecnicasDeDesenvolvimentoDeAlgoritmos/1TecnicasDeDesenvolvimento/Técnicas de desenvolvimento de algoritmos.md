@@ -26,6 +26,7 @@
 ### Tecnicas de desenvolvimento de algoritmos
 - Descrição narrativa - descrição com uma linguagem natural;  
 - Fluxograma - analisar o problema utilizando simbolos pre definidos;  
+  ![caixas fluxograma](https://raw.githubusercontent.com/viniciusnasc/ADSAnotacoesAtividades/master/Semestre%201/TecnicasDeDesenvolvimentoDeAlgoritmos/1TecnicasDeDesenvolvimento/Imagens/Simbolos.PNG)
 - Pseudocódigo - comandos parecidos com uma linguagem de programação.
 
 ## EXERCÍCIO: 
@@ -37,6 +38,7 @@ Passo 2 - Realizar a subtração desses dois números;
 Passo 3 - Caso o resultado seja 0, escrever "ZERO", caso seja maior que zero, escrever "POSITIVO", se não, escrever "NEGATIVO".
 
 ### Algoritmo em fluxograma:
+![Exercicio](https://raw.githubusercontent.com/viniciusnasc/ADSAnotacoesAtividades/master/Semestre%201/TecnicasDeDesenvolvimentoDeAlgoritmos/1TecnicasDeDesenvolvimento/Imagens/Exercicio.png)
 
 ### Pseudocódigo utilizando Portugol:
 
