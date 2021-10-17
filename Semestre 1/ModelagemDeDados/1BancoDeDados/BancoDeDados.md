@@ -61,23 +61,40 @@ Tecnologia web:
 - Nascimento do conceito de linguagem de manipulação de esquema do BD (select, inserir, tabelas, etc);  
 - Subesquema;  
 - Data Manipulation Language(DML) e Data Definition Language(DDL);  
+- Exemplos: RDM Server, IDMS e TOTAL;  
 + Simplicidade conceitual;  
 + Gerenciamento em grande escala;  
-+ Flexibilidade de acesso a dados
-- Falta de independencia entre as entidades.  
++ Flexibilidade de acesso a dados;  
++ Integridade do BD;  
++ Independencia dos dados;  
++ Normas e padrões bem definidos;
+- Complexidade do sistema;  
+- Falta de independencia estrutural.  
 
 ### modelo relacional
 - modelo mais utilizado no mercado;  
-- SQL Server, Oracle, MySql;  
-- Independencia Estrutural;  
-- Simplicidade em modelar o BD;  
-- Facil de ser implementado;  
+- Criado na dec. 70 por Edgar Frank Codd - pesquisador da IBM;  
+- Relação de BD em forma de tabelas;  
+- Não suporta relação n para n;  
+- Tem a capacidade de ocultar a complexidade para o usuário;  
+- Exemplos: SQL Server, Oracle, MySql;  
++ Independencia Estrutural;  
++ Simplicidade em modelar o BD - SImplicidade conceitual;  
++ Simples implementação, projeto, gerenciamento e uso;  
++ Sistema de gerenciamento de dados poderoso
 - Desvantagem: Necessário ter um bom servidor para rodar bem;  
+- Possibilidade de má concepção e implementação.  
 
 ### modelo Orientado a objeto
-- Trabalha com classes;  
-- Apresentação visual bem significativa;  
-- Independencia estrutural;  
+- Trabalha com classes e objetos;  
+- Objeto = uma entidade;  
+- Classe = coleção de objetos com mesmos atributos e metodos;  
+- Exemplos de BD: CACHÉ, DB4Objects, VERSANT, JASMIN, MATISSE
++ Apresentação visual bem significativa;  
++ Alta integridade do BD;  
++ Independencia estrutural dos dados;  
+- Acesso complexo aos dados;  
+- Curva de aprendizagem ingreme;  
 - Desvantagem: Normas e padroes tem diferentes normas.  
 
 ## Importancia do BD
