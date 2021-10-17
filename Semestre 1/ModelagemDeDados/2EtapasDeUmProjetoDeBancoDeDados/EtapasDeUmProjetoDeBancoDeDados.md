@@ -28,6 +28,7 @@
 - Entidades importantes e as relações entre elas;  
 - Nenhum atributo é especificado;  
 - Nenhuma chave primária é especificada.
+![ModeloConceitual](https://raw.githubusercontent.com/viniciusnasc/ADSAnotacoesAtividades/master/Semestre%201/ModelagemDeDados/2EtapasDeUmProjetoDeBancoDeDados/imagens/ModeloConceitual.PNG)
 
 ### Modelo lógico
 -  Todas as entidades e relações entre elas;  
@@ -36,10 +37,14 @@
 -  Especificadas as chaves estrangeiras;  
 -  Normalização ocorre nesse nível. 
 -  Etapas: Especificar as chaves primarias -> Encontrar as relações entre as entidades -> Encontrar todos os atributos de cada entidade -> Resolver relacionamentos (n,n) -> Normalização 
+![ModeloLogico](https://raw.githubusercontent.com/viniciusnasc/ADSAnotacoesAtividades/master/Semestre%201/ModelagemDeDados/2EtapasDeUmProjetoDeBancoDeDados/imagens/ModeloLogico.PNG)
 
 ### Modelo físico
 - Especificar todas as tabelas e colunas;  
 - Chaves estrangeiras;  
 - Considerações físicas podem fazer com que o modelo de dados físico seja bastante diferente do modelo lógico;  
 - O modelo físico é diferente para cada SGBD.  
-- 
+![ModeloFisico](https://raw.githubusercontent.com/viniciusnasc/ADSAnotacoesAtividades/master/Semestre%201/ModelagemDeDados/2EtapasDeUmProjetoDeBancoDeDados/imagens/ModeloFisico.PNG)
+
+### Diferenças entre os modelos
+![Comparativo](https://raw.githubusercontent.com/viniciusnasc/ADSAnotacoesAtividades/master/Semestre%201/ModelagemDeDados/2EtapasDeUmProjetoDeBancoDeDados/imagens/QuadroComparativo.png)
