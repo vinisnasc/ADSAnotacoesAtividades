@@ -27,7 +27,7 @@
 ### Modelo Conceitual
 - Entidades importantes e as relações entre elas;  
 - Nenhum atributo é especificado;  
-- Nenhuma chave primária é especificada.
+- Nenhuma chave primária é especificada.  
 ![ModeloConceitual](https://raw.githubusercontent.com/viniciusnasc/ADSAnotacoesAtividades/master/Semestre%201/ModelagemDeDados/2EtapasDeUmProjetoDeBancoDeDados/imagens/ModeloConceitual.PNG)
 
 ### Modelo lógico
@@ -44,6 +44,7 @@
 - Chaves estrangeiras;  
 - Considerações físicas podem fazer com que o modelo de dados físico seja bastante diferente do modelo lógico;  
 - O modelo físico é diferente para cada SGBD.  
+- Etapas: Converter entidades em tabelas -> Converter relações em chaves estrangeiras -> Atributos em colunas -> modificar modelo de dados fisicos com base em restrições/requisitos fisicos.  
 ![ModeloFisico](https://raw.githubusercontent.com/viniciusnasc/ADSAnotacoesAtividades/master/Semestre%201/ModelagemDeDados/2EtapasDeUmProjetoDeBancoDeDados/imagens/ModeloFisico.PNG)
 
 ### Diferenças entre os modelos
